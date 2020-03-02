@@ -1,14 +1,3 @@
-/*
- * Isabella Man
- * 1602153
- * CSE 15
- * 10/20/19
- * This file is a table of contents for lab assignment 2.
- */
-
-
-File list
-----------
 README
 Makefile
 charType.c
